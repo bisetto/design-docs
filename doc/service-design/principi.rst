@@ -26,7 +26,7 @@ La progettazione dei servizi deve utilizzare al meglio metodologie, tecnologie, 
 Sempre più spesso, il digitale è il più importante punto di contatto e di erogazione del servizio. Secondo il `principio della UE <http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52016DC0179&from=EN>`_  “digitale by default” il servizio deve essere organizzato in forma digitale, e a partire da questo bisogna progettare altri punti di contatto con il cittadino in modo da abbracciare un’ottica multicanale, che consideri in modo integrato ogni modalità di erogazione del servizio, digitale e fisica.
 
 **Semplificare**
-È fondamentale progettare servizi concreti, creare un rapporto di fiducia tra cittadino e Pubblica Amministrazione. Il design è punto di incontro tra tecnologie e persone: semplificare e sottrarre ogni volta che è possibile, ridurre la complessità e concentrarsi sui bisogni effettivi degli utenti.
+È fondamentale progettare servizi concreti, al fine di creare un rapporto di fiducia tra cittadino e Pubblica Amministrazione. Il design è punto di incontro tra tecnologie e persone: semplificare e sottrarre ogni volta che è possibile, ridurre la complessità e concentrarsi sui bisogni effettivi degli utenti.
 
 **Misurare i risultati**
 È necessario individuare gli obiettivi da raggiungere, in termini di funzionalità e processi, insieme alle metriche in grado di valutare il successo e il gradimento del progetto. I sistemi di misurazione devono essere sintetici (pochi indicatori chiave) e specifici (cioè strettamente legati al servizio che si intende misurare). 
@@ -55,7 +55,7 @@ La creazione di un sistema di valutazione misurabile è fondamentale per avviare
 +------------------------------------------------------------------------------+
 
 **Miglioramento continuo**
-Il progetto parte dai bisogni degli utenti e prevede di usare i prototipi serve per esplorare rapidamente possibili soluzioni. Una volta identificata una strada, si comincia rilasciando una prima versione e gradualmente attivando nuove funzionalità derivate dai feedback degli utenti e dalla comprensione di cosa serva veramente. L’utilizzo di un approccio di data-driven design è funzionale a capire cosa serva veramente alle persone, evitare di creare servizi e funzionalità inutili, concentrarsi sull’essenziale e migliorarlo progressivamente.
+Il progetto parte dai bisogni degli utenti e prevede di usare i prototipi per esplorare rapidamente possibili soluzioni. Una volta identificata una strada, si comincia rilasciando una prima versione e gradualmente attivando nuove funzionalità derivate dai feedback degli utenti e dalla comprensione di cosa serva veramente. L’utilizzo di un approccio di data-driven design è funzionale a capire cosa serva veramente alle persone, evitare di creare servizi e funzionalità inutili, concentrarsi sull’essenziale e migliorarlo progressivamente.
 
 Principi generali per l'e-government 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
